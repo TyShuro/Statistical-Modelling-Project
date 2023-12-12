@@ -29,7 +29,9 @@ Clean and preprocess the collected data to ensure accuracy and consistency.
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Data Integration: Combining data from diverse sources and formats posed challenges in terms of data cleaning and integration.
+
+Data Quality: Ensuring the accuracy and reliability of the collected data was a continuous effort. Cleaning noisy data was a time-consuming task.
 
 ## Future Goals
 (what would you do if you had more time?)
