@@ -1,0 +1,6 @@
+latitude,longitude,number_of_bikes,Foursquare Name,Distance_x,Rating_x,Categories_x,source_x,Yelp Name,Distance_y,Rating_y,Review Count,Categories_y,Price_y,source_y
+40.795,-73.9645,22,Starbucks,100,,Coffee Shop,Foursquare,Arco Cafe,473.3664249466264,4.5,355,"Sardinian, Pasta Shops",$$,Yelp
+40.795,-73.9645,22,Starbucks,100,,Coffee Shop,Foursquare,Saiguette,472.347832952342,4.5,738,Vietnamese,$$,Yelp
+40.795,-73.9645,22,Starbucks,100,,Coffee Shop,Foursquare,Jacob's Pickles,1313.0025982345633,4.0,5491,"Comfort Food, Southern, American",$$,Yelp
+40.795,-73.9645,22,Starbucks,100,,Coffee Shop,Foursquare,The Calaveras,537.3902148195012,4.5,236,"Bars, Mexican, Tapas/Small Plates",$$,Yelp
+40.795,-73.9645,22,Starbucks,100,,Coffee Shop,Foursquare,The Grand Feast,421.7429678343437,5.0,28,"Breakfast & Brunch, New American, Wine Bars",,Yelp
