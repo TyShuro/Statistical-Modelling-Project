@@ -3,8 +3,7 @@
 ## Project/Goals
 Explore Data from API's and build a statistical model
 Data Collection: Gather relevant data from various sources to build a comprehensive dataset.
-Statistical Modelling: Apply statistical models to analyze the data and identify areas of improvement in API coverage.
-
+Statistical Modelling: Apply statistical models to analyze the data 
 ## Process
 Part 1: Data Collection
 
