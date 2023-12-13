@@ -36,4 +36,9 @@ Data Integration: Combining data from diverse sources and formats posed challeng
 Data Quality: Ensuring the accuracy and reliability of the collected data was a continuous effort. Cleaning noisy data was a time-consuming task.
 
 ## Future Goals
-(what would you do if you had more time?)
+If given more time, I would implement the following - 
+Geospatial Analysis: Use geospatial analysis to understand the spatial relationships and patterns that may affect bike station popularity and, consequently, bike availability.
+
+User Behavior Analysis: Study user behavior through surveys or app data to understand the motivations behind bike rentals, which could provide insights for feature selection.
+
+Real-Time Analytics: Develop a system for real-time prediction of bike availability to aid in dynamic allocation and redistribution of bikes.
