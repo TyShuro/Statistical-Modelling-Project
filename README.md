@@ -26,7 +26,9 @@ Clean and preprocess the collected data to ensure accuracy and consistency.
 ### (your step 2)
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+The selected area had a significant difference in terms of the number of points of interest (POIs) found between API providers. By comparison, Foursquare offered a well-distributed variety of POI categories throughout the entire region. However, Yelp had more POIs in commercial districts and less in residential areas.
+
+A regression model predicting the number of bikes available at various stations based on POI characteristics yielded limited explanatory power with an R-squared value of only 0.014. This shows that the current variables present very little information about what affects the number of available bikes; as such, this model does not have much to offer. Despite some predictors being statistically significant, overall model fit was poor and residuals not normally distributed signifying either model assumptions violations or need for inclusion of more explanatory variables
 
 ## Challenges 
 Data Integration: Combining data from diverse sources and formats posed challenges in terms of data cleaning and integration.
