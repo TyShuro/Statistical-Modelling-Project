@@ -4,6 +4,10 @@
 Explore Data from API's and build a statistical model
 Data Collection: Gather relevant data from various sources to build a comprehensive dataset.
 Statistical Modelling: Apply statistical models to analyze the data 
+The goal of the regression model was to predict the number of bikes available at bike-sharing stations based on the characteristics of nearby points of interest (POIs). The independent variables in the model included features such as the distance from the POI to the bike station (Distance_y), the rating of the POI (Rating_y), the number of reviews the POI has (Review Count), and the price category of the POI (Price_y).
+
+By understanding the relationship between the availability of bikes and the surrounding POIs, the model aimed to provide insights that could help in the strategic placement and redistribution of bikes to meet demand more effectively. This could potentially lead to improved accessibility for users and optimized operations for bike-sharing service providers.
+
 ## Process
 Part 1: Data Collection
 
