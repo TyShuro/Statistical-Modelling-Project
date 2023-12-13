@@ -23,8 +23,6 @@ Data Cleaning:
 
 Clean and preprocess the collected data to ensure accuracy and consistency.
 
-### (your step 2)
-
 ## Results
 The selected area had a significant difference in terms of the number of points of interest (POIs) found between API providers. By comparison, Foursquare offered a well-distributed variety of POI categories throughout the entire region. However, Yelp had more POIs in commercial districts and less in residential areas.
 
